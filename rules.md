@@ -7,7 +7,7 @@
 January 1, 2019.
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode. The thread can be found (here)[https://twitter.com/hakeemangulu/status/1080224697814532096].
+1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode. The thread can be found [here](https://twitter.com/hakeemangulu/status/1080224697814532096).
 2. If I code at work or for school, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the [Log](r1_log.md) with the day's progress and provide a link so that others can see my progress.
