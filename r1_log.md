@@ -19,3 +19,14 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 2. [Image Feature Extraction and Matching](https://www.kaggle.com/wesamelshamy/tutorial-image-feature-extraction-and-matching)
 
 ### R1D2: January 2, 2019
+
+**Today's Progress**: Continued development on the popular meme application. Performed feature matching on two similar and different images. Next steps are to find a way to reject dissimilar images.
+
+**Thoughts** It definitely feels good to be getting somewhere with this, but I worry that I'm using blackbox tools. I should focus some more time on understanding the algorithms behind these tools.
+
+**Key Topics:**
+* Feature matching/AI with OpenCV
+
+**Link(s) to work**
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [Image Feature Extraction and Matching](https://www.kaggle.com/wesamelshamy/tutorial-image-feature-extraction-and-matching)
