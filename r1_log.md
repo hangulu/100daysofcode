@@ -44,3 +44,18 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Link(s) to work**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Feature Matching With OpenCV](http://answers.opencv.org/question/877/how-to-match-2-hog-for-object-detection/#882)
+
+### R1D4: January 4, 2019
+
+**Today's Progress**: Continued development on the popular meme application. Worked on using Tweepy to download images from the timeline, ending at the authentication step.
+
+**Thoughts**: Tweepy seems like a good tool for the Twitter API, but there are a few aspects of the implementation that I should clarify in later days, like the class method.
+
+**Key Topics:**
+* Twitter API
+* Class Methods
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [Collecting Twitter Data With Python](https://galeascience.wordpress.com/2016/03/18/collecting-twitter-data-with-python/)
+3. [Download the pictures from a Twitter feed using Python](https://miguelmalvarez.com/2015/03/03/download-the-pictures-from-a-twitter-feed-using-python/)
