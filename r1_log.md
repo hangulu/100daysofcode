@@ -59,3 +59,18 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Collecting Twitter Data With Python](https://galeascience.wordpress.com/2016/03/18/collecting-twitter-data-with-python/)
 3. [Download the pictures from a Twitter feed using Python](https://miguelmalvarez.com/2015/03/03/download-the-pictures-from-a-twitter-feed-using-python/)
+
+### R1D5: January 5, 2019
+
+**Today's Progress**: Continued development on the popular meme application. Finished function to download all images from the timeline.
+
+**Thoughts**: Got a full understanding of my mistakes from yesterday, the primary of which was following tutorials exactly without investigating what they were doing by double checking the documentation myself. After double checking and re-reading, I understand all the methods I'm using, and I'm in a great place to continue.
+
+**Key Topics:**
+* Twitter API
+* wget
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [Download Files With Python](https://stackabuse.com/download-files-with-python/)
+3. [Mining Twitter Data With Python - Part 1](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
