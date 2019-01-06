@@ -74,3 +74,15 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Download Files With Python](https://stackabuse.com/download-files-with-python/)
 3. [Mining Twitter Data With Python - Part 1](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
+
+### R1D6: January 6, 2019
+
+**Today's Progress**: Almost done with development of the popular meme application. Finished functions that pair the matching and comparing processes of OpenCV to the retrieval processes of Tweepy. Now, functions run the similarity function on all pairs of images downloaded from the timeline.
+
+**Thoughts**: It felt good to complete this section because I required little help from the web (excluding two Stack Overflow checks for removing files with Python and an easier way to generate pairwise permutation). Almost done.
+
+**Key Topics:**
+* itertools
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
