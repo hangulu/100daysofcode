@@ -86,3 +86,15 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 
 **Link(s) to work**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+
+### R1D7: January 7, 2019
+
+**Today's Progress**: Done with development of the popular meme application. Running the main script analyzes the timeline, then reports a popular image (if there is one). If not, it reports that all the images are unique (which is a common occurrence when examining timelines of 100 tweets – further development should extend this by running it several times over the course of an hour or something).
+
+**Thoughts**: It feels great to be done! I could continue with this (by making it run several times and looking at longer patterns), but I think I'm about ready to move on.
+
+**Key Topics:**
+* collections (Counter)
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
