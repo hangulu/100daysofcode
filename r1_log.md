@@ -98,3 +98,16 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 
 **Link(s) to work**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+
+### R1D8: January 8, 2019
+
+**Today's Progress**: Decided to continue development of the popular meme script. The plan is to build a frontend for it, throw it up on the web, and allow users to see which of their memes they use the most. So far, I've added the ability to specify a user's profile, and I've lowered the threshold for similarity to 0.15.
+
+**Thoughts**: I decided it's better to have a fully-functional product that I can share with the world than a MVP that I can use on my own. This pushes me to think about all stages in the development process, and forces me to build a more diverse skillset.
+
+**Key Topics:**
+* Python input
+* sys.argv for command-line arguments
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
