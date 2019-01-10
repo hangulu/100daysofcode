@@ -111,3 +111,16 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 
 **Link(s) to work**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+
+### R1D9: January 9, 2019
+
+**Today's Progress**: Worked on the frontend of the popmemes application, using React.
+
+**Thoughts**: This is about my fifth time diving into React, so hopefully it sticks this time. Things are going smoothly so far.
+
+**Key Topics:**
+* React forms
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [Creating Multistep Forms With React and Semantic UI](https://scotch.io/tutorials/creating-multistep-forms-with-react-and-semantic-ui)
