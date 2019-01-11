@@ -124,3 +124,16 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Link(s) to work**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Creating Multistep Forms With React and Semantic UI](https://scotch.io/tutorials/creating-multistep-forms-with-react-and-semantic-ui)
+
+### R1D10: January 10, 2019
+
+**Today's Progress**: Worked on the Django backend of the popmemes application.
+
+**Thoughts**: This is my first time working with Django, and it's much more involved and confusing than Flask. I'll definitely have to spend some time with it before I'm comfortable.
+
+**Key Topics:**
+* Django
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
