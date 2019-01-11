@@ -137,3 +137,20 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Link(s) to work**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
+
+### R1D11: January 11, 2019
+
+**Today's Progress**: Finished the Django backend of the popmemes application. Next step is to connect it to the React frontend.
+
+**Thoughts**: Most of today was spent studying the basic concepts of backend work, including creating RESTful APIs, CORS, and examining good web development design (reading Steve Yegge's post gave a lot of insight). Now, I have a much better understanding of what the Django REST Framework seeks to do, and I'm very impressed.
+
+**Key Topics:**
+* RESTful (Representational State Transfer) API Design
+* CORS (Cross-Origin Resource Sharing)
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
+3. [REST API Design](https://www.mulesoft.com/resources/api/what-is-rest-api-design)
+4. [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+5. [Steve Yegge's Google Platforms Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
