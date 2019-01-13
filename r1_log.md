@@ -154,3 +154,20 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 3. [REST API Design](https://www.mulesoft.com/resources/api/what-is-rest-api-design)
 4. [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 5. [Steve Yegge's Google Platforms Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
+
+### R1D12: January 12, 2019
+
+**Today's Progress**: Worked on connecting the Django backend to the React frontend. Took a break from the coding to learn about decorators and Python's syntactic sugar in depth.
+
+**Thoughts**: Today was mostly spent understanding core concepts of Python that I had used before, but hadn't fully understood, mostly notably: decorators. I loved being able to dive into the language of the authors of Python through PEPs, understanding most of what they expressed.
+
+**Key Topics:**
+* Decorators
+* Syntactic Sugar
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
+3. [PEP 318: Decorators for Functions and Methods](https://www.python.org/dev/peps/pep-0318/#background)
+4. [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
+5. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
