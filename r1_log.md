@@ -171,3 +171,21 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 3. [PEP 318: Decorators for Functions and Methods](https://www.python.org/dev/peps/pep-0318/#background)
 4. [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
 5. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+
+### R1D13: January 13, 2019
+
+**Today's Progress**: Worked on connecting the Django backend to the React frontend. Not much progress made in actually finishing the app; the Django REST Framework has gotten a little confusing as I try to veer away from tutorials.
+
+**Thoughts**: Today was a bit frustrating as I delve deeper into the Django weeds - it makes me miss Flask. However, I'm confident that tomorrow will be good for solidifying some of the confusing  concepts (ViewSets and Routers).
+
+**Key Topics:**
+* DRF ViewSets
+* DRF Routers
+
+**Link(s) to work**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
+3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+4. [Importing Modules From Parent Folder](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder)
+5. [ViewSets in DRF](https://www.django-rest-framework.org/api-guide/viewsets/)
+6. [Routers in DRF](https://www.django-rest-framework.org/api-guide/routers/)
