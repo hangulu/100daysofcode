@@ -14,7 +14,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Key Topics:**:
 * Feature matching/AI with OpenCV
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Image Feature Extraction and Matching](https://www.kaggle.com/wesamelshamy/tutorial-image-feature-extraction-and-matching)
 
@@ -27,7 +27,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Key Topics:**:
 * Feature matching/AI with OpenCV
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Image Feature Extraction and Matching](https://www.kaggle.com/wesamelshamy/tutorial-image-feature-extraction-and-matching)
 3. [Similar Image Search With OpenCV](https://medium.com/machine-learning-world/feature-extraction-and-similar-image-search-with-opencv-for-newbies-3c59796bf774)
@@ -41,7 +41,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Key Topics:**
 * Feature matching/AI with OpenCV
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Feature Matching With OpenCV](http://answers.opencv.org/question/877/how-to-match-2-hog-for-object-detection/#882)
 
@@ -55,7 +55,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Twitter API
 * Class Methods
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Collecting Twitter Data With Python](https://galeascience.wordpress.com/2016/03/18/collecting-twitter-data-with-python/)
 3. [Download the pictures from a Twitter feed using Python](https://miguelmalvarez.com/2015/03/03/download-the-pictures-from-a-twitter-feed-using-python/)
@@ -70,7 +70,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Twitter API
 * wget
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Download Files With Python](https://stackabuse.com/download-files-with-python/)
 3. [Mining Twitter Data With Python - Part 1](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
@@ -84,7 +84,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Key Topics:**
 * itertools
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 
 ### R1D7: January 7, 2019
@@ -96,7 +96,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Key Topics:**
 * collections (Counter)
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 
 ### R1D8: January 8, 2019
@@ -109,7 +109,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Python input
 * sys.argv for command-line arguments
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 
 ### R1D9: January 9, 2019
@@ -121,7 +121,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Key Topics:**
 * React forms
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Creating Multistep Forms With React and Semantic UI](https://scotch.io/tutorials/creating-multistep-forms-with-react-and-semantic-ui)
 
@@ -134,7 +134,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Key Topics:**
 * Django
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 
@@ -148,7 +148,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * RESTful (Representational State Transfer) API Design
 * CORS (Cross-Origin Resource Sharing)
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 3. [REST API Design](https://www.mulesoft.com/resources/api/what-is-rest-api-design)
@@ -165,7 +165,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Decorators
 * Syntactic Sugar
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 3. [PEP 318: Decorators for Functions and Methods](https://www.python.org/dev/peps/pep-0318/#background)
@@ -182,7 +182,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * DRF ViewSets
 * DRF Routers
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
@@ -200,9 +200,26 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Axios
 * MVC
 
-**Link(s) to work and references**:
+**Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 4. [Axios](https://www.npmjs.com/package/axios)
 5. [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+
+### R1D15: January 15, 2019
+
+**Today's Progress**: Worked more on the logic of the rendering in JavaScript.  A few errors relating to the importing of my own modules are arising, however.
+
+**Thoughts**: I'm learning a lot of JS (the hard way), which is exciting. I have a better understanding of 'this', functions, and promise chaining. I'm worried about a few errors I'm encountering, but I'm optimistic.
+
+**Key Topics:**
+* Promise Chaining
+* MVC
+
+**Links to work and references**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
+3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+4. [Promise Chaining](https://javascript.info/promise-chaining)
+5. [Understanding the “this” Keyword in JavaScript](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
