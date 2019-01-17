@@ -223,3 +223,16 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 4. [Promise Chaining](https://javascript.info/promise-chaining)
 5. [Understanding the “this” Keyword in JavaScript](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
+
+### R1D16: January 16, 2019
+
+**Today's Progress**: Worked out most of the errors that I was worried about, but now encountering errors when posting to the API. Almost finished though.
+
+**Thoughts**: A little frustrated that I'm not finished yet, but I'm confident that I will be soon, and I'm learning a lot on the way.
+
+**Key Topics:**
+* Alerts
+
+**Links to work and references**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
