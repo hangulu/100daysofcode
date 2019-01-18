@@ -236,3 +236,16 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+
+### R1D17: January 17, 2019
+
+**Today's Progress**: Identified the cause of another error: relative file paths in the matcher function. Worked this out, but limited by the Twitter API.
+
+**Thoughts**: The Twitter API's rate limiting is a major bottleneck of both the development process and production. It seems as if we can only make meaningful requests once every 15 minutes, which is frustrating. Looking forward to finishing this and moving on.
+
+**Key Topics:**
+* Rate Limiting
+
+**Links to work and references**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
