@@ -235,7 +235,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 
 **Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
-3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 
 ### R1D17: January 17, 2019
 
@@ -248,4 +248,19 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 
 **Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
-3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+
+### R1D18: January 18, 2019
+
+**Today's Progress**: Worked some more on using axios to connect the backend to the frontend by adding a file specifically for axios functions. Also changed from class-based views to function-based views.
+
+**Thoughts**: Feeling a bit slow, but I hope the project will be done soon. Regardless, the important thing is that I'm learning a lot, and in the best way that one can learn: by trying out different things myself.
+
+**Key Topics:**
+* Class-Based Views vs. Function-Based Views
+* Axios
+
+**Links to work and references**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+3. [Class-Based Views vs. Function-Based Views](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html)
