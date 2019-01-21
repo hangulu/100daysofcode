@@ -277,3 +277,16 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+
+### R1D18: January 20, 2019
+
+**Today's Progress**: Worked some more on the API and the frontend. POSTing now works fully with the frontend, but GETting is proving difficult.
+
+**Thoughts**: Got a lot accomplished today, so I'm feeling good. Inching closer to the finish line. I decided to focus on ensuring that the product works well and I understand every bit of it, no matter how long it takes me. Got some more concrete work done, and I now understand more about HTTP requests.
+
+**Key Topics:**
+* HTTP Requests
+
+**Links to work and references**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
