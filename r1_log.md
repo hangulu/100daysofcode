@@ -264,3 +264,16 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 3. [Class-Based Views vs. Function-Based Views](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html)
+
+### R1D18: January 19, 2019
+
+**Today's Progress**: The API is now working flawlessly for all GET requests (both full lists of users and details for individuals). It was broken a bit  after switching from class-based to function-based views. Now, all is more  seamless, and I'm ready to move on to focusing on POST requests and the frontend. Also fixed a lot in the JavaScript, with a focus on the Form component and the ImageServices file for Axios.
+
+**Thoughts**: Got a lot accomplished today, so I'm feeling good. Inching closer to the finish line. I decided to focus on ensuring that the product works well and I understand every bit of it, no matter how long it takes me.
+
+**Key Topics:**
+* Axios
+
+**Links to work and references**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
