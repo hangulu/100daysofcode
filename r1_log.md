@@ -15,7 +15,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Feature matching/AI with OpenCV
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Image Feature Extraction and Matching](https://www.kaggle.com/wesamelshamy/tutorial-image-feature-extraction-and-matching)
 
 ### R1D2: January 2, 2019
@@ -28,7 +28,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Feature matching/AI with OpenCV
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Image Feature Extraction and Matching](https://www.kaggle.com/wesamelshamy/tutorial-image-feature-extraction-and-matching)
 3. [Similar Image Search With OpenCV](https://medium.com/machine-learning-world/feature-extraction-and-similar-image-search-with-opencv-for-newbies-3c59796bf774)
 
@@ -42,7 +42,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Feature matching/AI with OpenCV
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Feature Matching With OpenCV](http://answers.opencv.org/question/877/how-to-match-2-hog-for-object-detection/#882)
 
 ### R1D4: January 4, 2019
@@ -56,7 +56,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Class Methods
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Collecting Twitter Data With Python](https://galeascience.wordpress.com/2016/03/18/collecting-twitter-data-with-python/)
 3. [Download the pictures from a Twitter feed using Python](https://miguelmalvarez.com/2015/03/03/download-the-pictures-from-a-twitter-feed-using-python/)
 
@@ -71,7 +71,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * wget
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Download Files With Python](https://stackabuse.com/download-files-with-python/)
 3. [Mining Twitter Data With Python - Part 1](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 
@@ -85,7 +85,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * itertools
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 
 ### R1D7: January 7, 2019
 
@@ -97,7 +97,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * collections (Counter)
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 
 ### R1D8: January 8, 2019
 
@@ -110,7 +110,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * sys.argv for command-line arguments
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 
 ### R1D9: January 9, 2019
 
@@ -122,7 +122,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * React forms
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Creating Multistep Forms With React and Semantic UI](https://scotch.io/tutorials/creating-multistep-forms-with-react-and-semantic-ui)
 
 ### R1D10: January 10, 2019
@@ -135,7 +135,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Django
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 
 ### R1D11: January 11, 2019
@@ -149,7 +149,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * CORS (Cross-Origin Resource Sharing)
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 3. [REST API Design](https://www.mulesoft.com/resources/api/what-is-rest-api-design)
 4. [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
@@ -166,7 +166,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Syntactic Sugar
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 3. [PEP 318: Decorators for Functions and Methods](https://www.python.org/dev/peps/pep-0318/#background)
 4. [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
@@ -183,7 +183,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * DRF Routers
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 4. [Importing Modules From Parent Folder](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder)
@@ -201,7 +201,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * MVC
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 4. [Axios](https://www.npmjs.com/package/axios)
@@ -218,7 +218,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * MVC
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Build A Todo Application Using Django and React](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react)
 3. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 4. [Promise Chaining](https://javascript.info/promise-chaining)
@@ -234,7 +234,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Alerts
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 
 ### R1D17: January 17, 2019
@@ -247,7 +247,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Rate Limiting
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 
 ### R1D18: January 18, 2019
@@ -261,7 +261,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Axios
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 3. [Class-Based Views vs. Function-Based Views](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html)
 
@@ -275,7 +275,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Axios
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 
 ### R1D20: January 20, 2019
@@ -288,7 +288,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * HTTP Requests
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 
 ### R1D21: January 21, 2019
@@ -304,9 +304,22 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Component Data Storage
 
 **Links to work and references**:
-1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 3. [Template Literals in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 4. [Binding in JS](https://alistapart.com/article/getoutbindingsituations)
 5. [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 6. [Where To Hold React Component Data](https://medium.freecodecamp.org/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00)
+
+### R1D22: January 22, 2019
+
+**Today's Progress**: Finished with the popular image application. I've separated the repository into its own, cleaned up the directory, and tested it (as much as I could given the Twitter API rate limiting).
+
+**Thoughts**: It feels so good to be finished! There were many obstacles, but I pushed through. Now, I have a much stronger understanding of React, JavaScript, and OpenCV than I did before I started.
+
+**Key Topics:**
+* Component Data Storage
+
+**Links to work and references**:
+1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
+2. [Where To Hold React Component Data](https://medium.freecodecamp.org/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00)
