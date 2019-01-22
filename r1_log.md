@@ -265,7 +265,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 3. [Class-Based Views vs. Function-Based Views](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html)
 
-### R1D18: January 19, 2019
+### R1D19: January 19, 2019
 
 **Today's Progress**: The API is now working flawlessly for all GET requests (both full lists of users and details for individuals). It was broken a bit  after switching from class-based to function-based views. Now, all is more  seamless, and I'm ready to move on to focusing on POST requests and the frontend. Also fixed a lot in the JavaScript, with a focus on the Form component and the ImageServices file for Axios.
 
@@ -278,7 +278,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
 
-### R1D18: January 20, 2019
+### R1D20: January 20, 2019
 
 **Today's Progress**: Worked some more on the API and the frontend. POSTing now works fully with the frontend, but GETting is proving difficult.
 
@@ -290,3 +290,23 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Links to work and references**:
 1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
 2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+
+### R1D21: January 21, 2019
+
+**Today's Progress**: Both POSTing and GETting now work seamlessly with the frontend. The project is basically finished, and now returns alerts with the correct information (the username, the most popular image, and the frequency of that image). The last step is to display the image and run tests.
+
+**Thoughts**: Basically finished, and I'm feeling excellent. The app is looking good and is working well. Most importantly, I have a much stronger grasp of JavaScript and React than when I started.
+
+**Key Topics:**
+* Template Literals
+* Binding
+* Conditional Rendering
+* Component Data Storage
+
+**Links to work and references**:
+1. [Most Popular Meme On The Timeline](https://github.com/hangulu/twitter/tree/master/popmemes)
+2. [How to build a modern web application...with Django and React](https://www.digitalocean.com/community/tutorials/how-to-build-a-modern-web-application-to-manage-customer-information-with-django-and-react-on-ubuntu-18-04)
+3. [Template Literals in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+4. [Binding in JS](https://alistapart.com/article/getoutbindingsituations)
+5. [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+6. [Where To Hold React Component Data](https://medium.freecodecamp.org/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00)
