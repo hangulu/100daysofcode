@@ -323,3 +323,15 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 **Links to work and references**:
 1. [Most Popular Image On The Timeline](https://github.com/hangulu/popimg)
 2. [Where To Hold React Component Data](https://medium.freecodecamp.org/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00)
+
+### R1D23: January 23, 2019
+
+**Today's Progress**: My next application will be a Java backend that allows one to post a new tweet to an existing thread. Today, I installed Java on my system, and started a few tutorials to remind myself what coding in Java is like.
+
+**Thoughts**: I'm glad that I'm getting started on something new. I'll be coding in Java all summer, so I think I'll dedicate at least my next two projects to really learning that language, and the thread thing is an excellent start (because I'll be using it every day for this).
+
+**Key Topics:**
+* Java
+
+**Links to work and references**:
+1. [Java Tutorial](https://www.tutorialspoint.com/java/java_overview.htm)
