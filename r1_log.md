@@ -408,3 +408,18 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 
 **Links to work and references**:
 1. [Learn Java in One Day and Learn It Well](https://www.amazon.com/Java-Beginners-Hands-Project-Project-ebook/dp/B01LZOCVN9/ref=sr_1_3?s=books&ie=UTF8&qid=1548245450&sr=1-3)
+
+### R1D29: January 29, 2019
+
+**Today's Progress**: Finished chapter 7 of *Learn Java in One Day and Learn It Well.*
+
+**Thoughts**: Good introduction to object oriented programming.
+
+**Key Topics:**
+* Fields
+* Methods
+* Constructors
+* The static keyword
+
+**Links to work and references**:
+1. [Learn Java in One Day and Learn It Well](https://www.amazon.com/Java-Beginners-Hands-Project-Project-ebook/dp/B01LZOCVN9/ref=sr_1_3?s=books&ie=UTF8&qid=1548245450&sr=1-3)
