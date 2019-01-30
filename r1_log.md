@@ -338,7 +338,7 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 2. [Learn Java in One Day and Learn It Well](https://www.amazon.com/Java-Beginners-Hands-Project-Project-ebook/dp/B01LZOCVN9/ref=sr_1_3?s=books&ie=UTF8&qid=1548245450&sr=1-3)
 3. [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
 
-### R1D23: January 24, 2019
+### R1D24: January 24, 2019
 
 **Today's Progress**: Finished chapters 1-2 of *Learn Java in One Day and Learn It Well.*
 
@@ -348,6 +348,20 @@ The log of round 1 of my #100DaysOfCode challenge. Started on January 1, 2019.
 * Packages
 * Comments
 * The main() method
+
+**Links to work and references**:
+1. [Learn Java in One Day and Learn It Well](https://www.amazon.com/Java-Beginners-Hands-Project-Project-ebook/dp/B01LZOCVN9/ref=sr_1_3?s=books&ie=UTF8&qid=1548245450&sr=1-3)
+
+### R1D25: January 25, 2019
+
+**Today's Progress**: Finished chapter 3 of *Learn Java in One Day and Learn It Well.*
+
+**Thoughts**: Still very slow, but its a good thorough introduction to variables, operators and types.
+
+**Key Topics:**
+* Variables
+* Operators
+* Types
 
 **Links to work and references**:
 1. [Learn Java in One Day and Learn It Well](https://www.amazon.com/Java-Beginners-Hands-Project-Project-ebook/dp/B01LZOCVN9/ref=sr_1_3?s=books&ie=UTF8&qid=1548245450&sr=1-3)
